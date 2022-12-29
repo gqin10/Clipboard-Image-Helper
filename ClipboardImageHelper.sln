@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClipboardImageHelper", "ClipboardImageHelper\ClipboardImageHelper.csproj", "{90851898-D57F-4524-BF55-442D99E62C9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90851898-D57F-4524-BF55-442D99E62C9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90851898-D57F-4524-BF55-442D99E62C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90851898-D57F-4524-BF55-442D99E62C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90851898-D57F-4524-BF55-442D99E62C9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAA8A9AD-5B81-4A02-BFA7-89F8CA91C930}
+	EndGlobalSection
+EndGlobal
